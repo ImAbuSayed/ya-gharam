@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا غرام القلب في ليل السهر
+> نار شوقي في الحنايا تستعر
+> كل نبضة في عروقي ترتجف
+> يا حبيب الروح خذني في السفر
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
