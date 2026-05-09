@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Gharam
+
+This log tracks the cryptographic history and versioning for the song **Ya Gharam** (ya-gharam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:33:29.713367 | `v1` | `0ecce57d1ac5d3f0bff58b25b1f20717d42d06c8bfd6047174b2ae52031cdc5a` | `d746264f45170cba5ed633870d078990da29012bd6c5764dbefe361b4b25d6f4` | `2026-05-09_ya-gharam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
